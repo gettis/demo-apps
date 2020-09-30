@@ -21,7 +21,7 @@ Linux camera install: `cd lib/` then `make; make install`. Note that `Makefile` 
 
 
 ## run:
-To run with a webcam and display on local machine: ```qlua run.lua```
+To run with a webcams and displays on local machine: ```qlua run.lua```
 
 Zoom window by 2 (or any number): ```qlua run.lua -z 2```
 
